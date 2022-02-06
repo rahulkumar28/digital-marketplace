@@ -2,15 +2,13 @@
 This is a Marketplace for leasing NFT where NFT can be leased out in a peer to peer market.
 
 It can be tested using Metamask connected to local harhat network or can connect to any of the testnets.
-------------------------------------------------------------------
-- Web application framework           -       Next.js          -
-------------------------------------------------------------------
-- Solidity development environment    -        Hardhat         -
-------------------------------------------------------------------
-- File Storage                        -        IPFS            -
-------------------------------------------------------------------
-- Ethereum Web Client Library         -        Ethers.js       -
-------------------------------------------------------------------
+| Tech                                |       Details            |
+| ----------------------------------------------------------------
+| Web application framework           |       Next.js            |
+| Solidity development environment    |       Hardhat            |
+| File Storage                        |       IPFS               |
+| Ethereum Web Client Library         |       Ethers.js          |
+
 
 The platform uses [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
