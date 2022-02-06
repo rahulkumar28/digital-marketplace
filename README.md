@@ -1,6 +1,7 @@
 # LeaseNFT320
+This is a Marketplace for leasing NFT where NFT can be leased out in a peer to peer market.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The platform uses [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
