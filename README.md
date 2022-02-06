@@ -3,7 +3,7 @@ This is a Marketplace for leasing NFT where NFT can be leased out in a peer to p
 
 It can be tested using Metamask connected to local harhat network or can connect to any of the testnets.
 | Tech                                |       Details            |
-| ----------------------------------------------------------------
+| ------------------------------------|--------------------------|
 | Web application framework           |       Next.js            |
 | Solidity development environment    |       Hardhat            |
 | File Storage                        |       IPFS               |
